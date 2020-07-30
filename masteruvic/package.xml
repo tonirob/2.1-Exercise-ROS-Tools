@@ -1,0 +1,15 @@
+<?xml.version="1.0"?>
+<package>
+  <name>2.1-exercise</name>
+  <description>exercise-ros-tools</description>
+
+<!-- Exercise to practice the Session 2. ROS tools -->
+  <license>BSD</license>
+  
+  <exec_depend>my_project.launch</exec_depend>
+  <build_depend>rviz</build_depend>
+  <exec_depend>usb_cam-test.launch</exec_depend>
+  <exec_depend>my_project.launch</exec_depend>
+  <run_depend>rviz</run_depend>
+  <exec_depend>usb_cam-test.launch</exec_depend>
+</package>
